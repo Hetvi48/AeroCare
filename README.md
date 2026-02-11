@@ -66,22 +66,6 @@ The workflow followed in this project:
 
 ---
 
-## 📂 Repository Structure
-
-AeroCare/
-│
-├── Advance_DataSet_2.ipynb # PCA applied dataset
-├── Advance_DataSet_4.ipynb # PCA applied dataset
-├── All_model_1_aircraft.ipynb # ML models with all features
-├── All_model_3_aircraft.ipynb # ML models (variant)
-├── Dataset_1_LSTM_final.ipynb # LSTM model implementation
-├── Dataset_3_LSTM_final.ipynb # Updated LSTM results
-├── Outlier_third_notebook_*.ipynb# Outlier detection experiments
-├── README.md
-
-
----
-
 ## 🛠 Skills & Tools Used
 
 - **Python**
@@ -125,5 +109,3 @@ AeroCare/
 
 **Hetvi**  
 _Data Science & Machine Learning Enthusiast_
-## 📂 Repository Structure
-
